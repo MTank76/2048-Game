@@ -24,17 +24,15 @@ This repository contains a simple yet addictive implementation of the classic 20
 5. Combine tiles with the same number to create larger numbered tiles.
 6. Continue playing to achieve the 2048 tile or aim for higher scores!
 
-### References
-1. https://www.youtube.com/watch?v=b4XP2IcI-Bg&t=302s
-2. https://www.youtube.com/watch?v=HTJCUBp_S2I
-
 ### Output
 The output of the Gameboard, Start of the game, Winning Board, and Game Over Board
 
 **GameBoard**
+
 ![2048-gameboard](https://github.com/MTank76/2048-Game/assets/90818234/30c881a0-d912-4b91-b048-d13b91257fd6)
 
 **Start**
+
 ![2048-start](https://github.com/MTank76/2048-Game/assets/90818234/1398fdaa-691f-44f9-a6d7-4a4b3d8f0282)
 
 **Win**
@@ -44,6 +42,10 @@ The output of the Gameboard, Start of the game, Winning Board, and Game Over Boa
 **Game Over**
 
 ![2048-gameover](https://github.com/MTank76/2048-Game/assets/90818234/db14abdd-8fb7-4db6-8631-2286ee6bf7db)
+
+### References
+1. https://www.youtube.com/watch?v=b4XP2IcI-Bg&t=302s
+2. https://www.youtube.com/watch?v=HTJCUBp_S2I
 
 ## Contributing
 
