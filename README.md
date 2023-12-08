@@ -33,7 +33,7 @@ The output of the Gameboard, Start of the game, Winning Board, and Game Over Boa
 
 **Start**
 
-![2048-start](https://github.com/MTank76/2048-Game/assets/90818234/1398fdaa-691f-44f9-a6d7-4a4b3d8f0282)
+![Screenshot 2023-12-08 073631](https://github.com/MTank76/2048-Game/assets/90818234/a3459247-c903-4ae0-b269-33927aa071e3)
 
 **Win**
 
